@@ -26,8 +26,8 @@ The **Climate Change Dashboard** presents key metrics and visual trends to analy
 ---
 
 ## 🌐 Explore the Interactive Dashboard
-The fully interactive version of this dashboard is available on **Kaggle**:  
-👉 [View Dashboard on Kaggle](https://www.kaggle.com/your-dashboard-link)
+The fully interactive version of this dashboard is available on **Tableau Public**:  
+👉 [View Dashboard on Tableau Public]([https://www.kaggle.com/your-dashboard-link](https://public.tableau.com/app/profile/jil.patel4324/viz/ClimateChange1_17566099916020/Dashboard1))
 
 ---
 
@@ -101,7 +101,7 @@ Climate-Change-Dashboard/
 │   ├── Climate_Change_Dashboard.twbx   # packaged workbook (with data extracts)
 │   └── Climate_Change_Dashboard.twb    # workbook only (structure & visuals)
 ├── assets/               # Images for README
-│   └── dashboard.png
+│   └── climate_dashboard.png
 ```
 
 ---
@@ -115,6 +115,6 @@ Climate-Change-Dashboard/
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 This project was developed to explore climate change data through structured analysis and dynamic visualization. SQL was used for data modeling, and Tableau for interactive storytelling.  
