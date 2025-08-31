@@ -96,10 +96,9 @@ Climate-Change-Dashboard/
 │
 ├── README.md
 ├── data/                 # sample or full datasets (if small enough & public)
-│   └── climate_sample.xlsx
-├── tableau/              # Tableau project files
-│   ├── Climate_Change_Dashboard.twbx   # packaged workbook (with data extracts)
-│   └── Climate_Change_Dashboard.twb    # workbook only (structure & visuals)
+│   └── combined_data.xlsx
+├── tableau/              # Tableau project file
+│   └── Climate_Change_Dashboard.twb    # workbook only (data extracts, structure, and visuals)
 ├── assets/               # Images for README
 │   └── climate_dashboard.png
 ```
