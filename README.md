@@ -27,7 +27,7 @@ The **Climate Change Dashboard** presents key metrics and visual trends to analy
 
 ## 🌐 Explore the Interactive Dashboard
 The fully interactive version of this dashboard is available on **Tableau Public**:  
-👉 [View Dashboard on Tableau Public]([https://www.kaggle.com/your-dashboard-link](https://public.tableau.com/app/profile/jil.patel4324/viz/ClimateChange1_17566099916020/Dashboard1))
+👉 [View Dashboard on Tableau Public](https://public.tableau.com/app/profile/jil.patel4324/viz/ClimateChange1_17566099916020/Dashboard1)
 
 ---
 
