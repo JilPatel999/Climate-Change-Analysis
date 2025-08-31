@@ -1,7 +1,7 @@
 
 # 🌍 Climate Change Dashboard
 
-![Dashboard Preview](assets/dashboard.png)
+![Dashboard Preview](climate_dashboard.png)
 
 This project provides a comprehensive analysis of global climate change indicators using data visualization and structured querying. It highlights patterns in temperature, precipitation, air quality, and extreme weather events, offering insight into how climate change affects different regions and infrastructures.
 
