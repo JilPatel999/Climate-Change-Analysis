@@ -94,13 +94,11 @@ The fully interactive version of this dashboard is available on **Tableau Public
 ```
 Climate-Change-Dashboard/
 │
-├── README.md
-├── data/                 # sample or full datasets (if small enough & public)
-│   └── combined_data.xlsx
-├── tableau/              # Tableau project file
-│   └── Climate_Change_Dashboard.twb    # workbook only (data extracts, structure, and visuals)
-├── assets/               # Images for README
-│   └── climate_dashboard.png
+├── ClimateChange(1).twb          # Tableau workbook (structure & visuals)
+├── ClimateChangeAnalysis.sql     # SQL queries used for data preparation
+├── Combined_Data.xlsx            # Combined dataset used in the analysis
+├── README.md                     # Project documentation
+└── climate_dashboard.png         # Dashboard preview image
 ```
 
 ---
