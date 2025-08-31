@@ -91,6 +91,11 @@ The **Climate Change Dashboard** presents key metrics and visual trends to analy
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 This project was developed to explore climate change data through structured analysis and dynamic visualization. SQL was used for data modeling, and Tableau for interactive storytelling.
+
+---
+
+## Attribution
+Built with **Tableau** and **MySQL Workbench** using internally provided data sheets.
